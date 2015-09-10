@@ -1,0 +1,31 @@
+{
+  "name": "qbxml",
+  "version": "0.0.1",
+  "description": "QBXML validation, creation, and parsation",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnballantyne/qbxml.git"
+  },
+  "keywords": [
+    "qbws",
+    "qbxml",
+    "QuickBooks",
+    "qbwc",
+    "QuickBooks",
+    "Web",
+    "Connector"
+  ],
+  "author": "John Ballantyne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnballantyne/qbxml/issues"
+  },
+  "homepage": "https://github.com/johnballantyne/qbxml#readme"
+}
